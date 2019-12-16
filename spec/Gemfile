@@ -51,7 +51,7 @@ gem 'rest-client', '~> 1.8.0'
 gem 'simple_hl7', '~> 1.0.2'
 gem 'ruby-hl7', '~> 1.1.1'
 gem 'httpclient', '~> 2.8.2.4'
-gem 'excon', '0.45.1'
+gem 'excon', '0.71.0'
 gem 'savon', '~> 2.11.1'  # SOAP Client for HL7/Immunization requests
 gem 'daemons', '1.1.9'
 gem 'sidekiq', '~> 5.0.4'

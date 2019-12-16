@@ -219,7 +219,7 @@ GEM
     erubis (2.7.0)
     et-orbi (1.0.8)
       tzinfo
-    excon (0.45.1)
+    excon (0.71.0)
     execjs (2.7.0)
     factory_girl (4.8.0)
       activesupport (>= 3.0.0)
@@ -806,7 +806,7 @@ DEPENDENCIES
   elasticsearch (~> 2.0.0)
   elasticsearch-model (~> 0.1.9)
   elasticsearch-rails (~> 0.1.9)
-  excon (= 0.45.1)
+  excon (= 0.71.0)
   execjs
   factory_girl_rails
   faker
